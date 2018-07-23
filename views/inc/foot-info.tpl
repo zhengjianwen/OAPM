@@ -1,0 +1,1 @@
+<footer> 2016 &copy; Admin by Lock &nbsp;&nbsp;<a href="http://OAPM.milu365.cn">OAPM官网</a> &middot; <a href="http://OAPM.docs.milu365.cn">OAPM手册</a></footer>
